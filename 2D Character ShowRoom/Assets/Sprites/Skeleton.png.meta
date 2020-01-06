@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: f43a0e329aebd8042a5d14d0fa4f1ec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4354231566380549168
+    second: Skeleton_0
+  - first:
+      213: 5809030516613042957
+    second: Skeleton_1
+  - first:
+      213: 6682473901004932845
+    second: Sword
+  - first:
+      213: -7021505876318606439
+    second: Arm_U_R
+  - first:
+      213: -9021820611684853211
+    second: Arm_U_L
+  - first:
+      213: -1443268486790046223
+    second: Shield
+  - first:
+      213: -3968840907078709152
+    second: Arm_L_R
+  - first:
+      213: -2164511808432914653
+    second: Arm_L_L
+  - first:
+      213: -7000201611338815235
+    second: Leg_R
+  - first:
+      213: -4022789504429121826
+    second: Leg_L
+  - first:
+      213: 8650110944895953673
+    second: Leg_R1
+  - first:
+      213: 4520074865302796247
+    second: Leg_L1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 280
+        width: 172
+        height: 198
+      alignment: 9
+      pivot: {x: 0.69288975, y: 0.34229565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede7d4b399f121479cd779a0e6515fb
+      internalID: 4354231566380549168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 256
+        width: 104
+        height: 224
+      alignment: 9
+      pivot: {x: 0.4249388, y: 0.08615793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f7d7fde4540845b7923e32c2eee36
+      internalID: 5809030516613042957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 264
+        width: 125
+        height: 242
+      alignment: 9
+      pivot: {x: 0.8435066, y: 0.18145487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764d4404923052449d8f3ced069233f
+      internalID: 6682473901004932845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_U_R
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 53
+        height: 73
+      alignment: 9
+      pivot: {x: 0.8314023, y: 0.9010114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a815c09d3e41741af0a19d3b17a6b5
+      internalID: -7021505876318606439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_U_L
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 199
+        width: 75
+        height: 50
+      alignment: 9
+      pivot: {x: 0.09667134, y: 0.83177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a005a014a0b561a489f66844dff2cdb2
+      internalID: -9021820611684853211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 154
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c35cbf1e3583e48906ccbf50a86ea6
+      internalID: -1443268486790046223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_L_R
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 108
+        height: 43
+      alignment: 9
+      pivot: {x: 0.80719495, y: 0.6361574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ab005c4ed6a041af5bec47fb02d7b
+      internalID: -3968840907078709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_L_L
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 87
+        width: 37
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.84849846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b10a54b98daf349916c48203f87e6a
+      internalID: -2164511808432914653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_R
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 95
+        width: 65
+        height: 54
+      alignment: 9
+      pivot: {x: 0.8302692, y: 0.7529839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94225eccdef096447a94c277e631d862
+      internalID: -7000201611338815235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_L
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 73
+        width: 34
+        height: 75
+      alignment: 9
+      pivot: {x: 0.614799, y: 0.851286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e1137bc7c80f4ebead7abf07b33f8
+      internalID: -4022789504429121826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_R1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 10
+        width: 63
+        height: 82
+      alignment: 9
+      pivot: {x: 0.37608942, y: 0.84509826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c754102f3e244180b036e9ae6f7d1
+      internalID: 8650110944895953673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_L1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 68
+        height: 66
+      alignment: 9
+      pivot: {x: 0.1699515, y: 0.8400501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932afb00bdcab6844a1c5d28df1ae829
+      internalID: 4520074865302796247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
